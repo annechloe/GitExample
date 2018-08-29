@@ -1,7 +1,6 @@
 package Main;
 
 public class GitMaths {
-
 	
 	
 	public void add() {
@@ -12,4 +11,5 @@ public class GitMaths {
 	
 
 }
+
 }
